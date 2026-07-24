@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/GameJam/Content/Variant_Shooter/Anims/ABP_FP_Pistol.uasset",
+				"E:/GameJam/Content/Variant_Shooter/Anims/ABP_FP_Weapon.uasset",
+				"E:/GameJam/Content/Variant_Shooter/Blueprints/FirstPerson/BP_FPShooter.uasset",
+				"E:/GameJam/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/GameJam/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/8/3A/CCK36BSR88KOTV7ORQGZNL.uasset",
+				"E:/GameJam/Content/FirstPerson/Blueprints/GameUI/Time_Player_Health.uasset",
+				"E:/GameJam/Content/FirstPerson/Blueprints/GameUI/Time.uasset",
+				"E:/GameJam/Content/FirstPerson/Blueprints/GameUI/Player_HUD.uasset",
+				"E:/GameJam/Content/FirstPerson/Blueprints/GameUI/WB_UI.uasset",
+				"E:/GameJam/Content/Blueprints/NewHUD.uasset",
+				"E:/GameJam/Content/FirstPerson/Blueprints/GM_FirstPerson.uasset",
+				"E:/GameJam/Content/Input/Actions/Punch.uasset",
+				"E:/GameJam/Content/Input/Actions/IA_Punch.uasset",
+				"E:/GameJam/Content/Input/IMC_Default.uasset",
+				"E:/GameJam/Content/BPC_Health.uasset"
+			]
+		}
+	]
+}
