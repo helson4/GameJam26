@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/GameJam/Content/Weapons/BP_Shield.uasset",
+				"E:/GameJam/Content/Input/Actions/IA_Shield.uasset",
+				"E:/GameJam/Content/Input/IMC_Default.uasset",
+				"E:/GameJam/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/GameJam/Content/FirstPerson/Blueprints/GameUI/Time.uasset",
 				"C:/Users/Dominic/OneDrive/Documents/Portfolio building/GameJam2026/GameJam26/Content/Enemy/BT_Circle.uasset",
 				"C:/Users/Dominic/OneDrive/Documents/Portfolio building/GameJam2026/GameJam26/Content/Enemy/Circle/BB_Circle.uasset",
 				"C:/Users/Dominic/OneDrive/Documents/Portfolio building/GameJam2026/GameJam26/Content/Enemy/Circle/BT_Circle.uasset",
