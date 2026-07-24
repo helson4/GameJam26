@@ -1,0 +1,13 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio
+.vs/
+
+# Build files
+*.sln
+*.suo
+*.user
